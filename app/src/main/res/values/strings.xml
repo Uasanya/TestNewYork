@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestNewYork</string>
+    <string name="name">Название: %1$s</string>
+    <string name="author">Автор: %1$s</string>
+    <string name="description">Описание: %1$s</string>
+    <string name="rank">Номер: %1$d</string>
+    <string name="publisher">Издатель: %1$s</string>
+    <string name="link">ССылка на покупку: %1$s</string>
+</resources>
